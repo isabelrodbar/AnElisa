@@ -1,0 +1,2 @@
+ELISA file name	Template file name	Antigen specific template	Sample file name	Sample file ID	Sample dilution	Coating
+150917_AMA1_1.txt	AMA1_Template.txt	AMA1	Sample_AMA1.txt	1	2000	0.05ug

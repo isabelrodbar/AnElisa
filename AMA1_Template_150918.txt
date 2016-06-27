@@ -1,0 +1,97 @@
+ELISA Well	Sample	Duplicate	Dilution	Coating
+A01	Std	A	200	0.05ug
+A02	Std	B	200	0.05ug
+A03	Sample 1	A	2000	0.05ug
+A04	Sample 1	A	2000	0.05ug
+A05	Sample 3	A	2000	0.05ug
+A06	Sample 4	A	2000	0.05ug
+A07	Sample 5	A	2000	0.05ug
+A08	Sample 6	A	2000	0.05ug
+A09	Sample 7	A	2000	0.05ug
+A10	Sample 8	A	2000	0.05ug
+A11	Sample 9	A	2000	0.05ug
+A12	Sample 10	A	2000	0.05ug
+B01	Std	A	800	0.05ug
+B02	Std	B	800	0.05ug
+B03	Sample 2	B	2000	0.05ug
+B04	Sample 2	B	2000	0.05ug
+B05	Sample 3	B	2000	0.05ug
+B06	Sample 4	B	2000	0.05ug
+B07	Sample 5	B	2000	0.05ug
+B08	Sample 6	B	2000	0.05ug
+B09	Sample 7	B	2000	0.05ug
+B10	Sample 8	B	2000	0.05ug
+B11	Sample 9	B	2000	0.05ug
+B12	Sample 10	B	2000	0.05ug
+C01	Std	A	3200	0.05ug
+C02	Std	B	3200	0.05ug
+C03	Sample 11	A	2000	0.05ug
+C04	Sample 12	A	2000	0.05ug
+C05	Sample 13	A	2000	0.05ug
+C06	Sample 14	A	2000	0.05ug
+C07	Sample 15	A	2000	0.05ug
+C08	Sample 16	A	2000	0.05ug
+C09	Sample 17	A	2000	0.05ug
+C10	Sample 18	A	2000	0.05ug
+C11	Sample 19	A	2000	0.05ug
+C12	Sample 20	A	2000	0.05ug
+D01	Std	A	12800	0.05ug
+D02	Std	B	12800	0.05ug
+D03	Sample 11	B	2000	0.05ug
+D04	Sample 12	B	2000	0.05ug
+D05	Sample 13	B	2000	0.05ug
+D06	Sample 14	B	2000	0.05ug
+D07	Sample 15	B	2000	0.05ug
+D08	Sample 16	B	2000	0.05ug
+D09	Sample 17	B	2000	0.05ug
+D10	Sample 18	B	2000	0.05ug
+D11	Sample 19	B	2000	0.05ug
+D12	Sample 20	B	2000	0.05ug
+E01	Std	A	51200	0.05ug
+E02	Std	B	51200	0.05ug
+E03	Sample 21	A	2000	0.05ug
+E04	Sample 22	A	2000	0.05ug
+E05	Sample 23	A	2000	0.05ug
+E06	Sample 24	A	2000	0.05ug
+E07	Sample 25	A	2000	0.05ug
+E08	Sample 26	A	2000	0.05ug
+E09	Sample 27	A	2000	0.05ug
+E10	Sample 28	A	2000	0.05ug
+E11	Sample 29	A	2000	0.05ug
+E12	Sample 30	A	2000	0.05ug
+F01	Std	A	204800	0.05ug
+F02	Std	B	204800	0.05ug
+F03	Sample 21	B	2000	0.05ug
+F04	Sample 22	B	2000	0.05ug
+F05	Sample 23	B	2000	0.05ug
+F06	Sample 24	B	2000	0.05ug
+F07	Sample 25	B	2000	0.05ug
+F08	Sample 26	B	2000	0.05ug
+F09	Sample 27	B	2000	0.05ug
+F10	Sample 28	B	2000	0.05ug
+F11	Sample 29	B	2000	0.05ug
+F12	Sample 30	B	2000	0.05ug
+G01	Std	A	819200	0.05ug
+G02	Std	B	819200	0.05ug
+G03	Sample 31	A	2000	0.05ug
+G04	Sample 32	A	2000	0.05ug
+G05	Sample 33	A	2000	0.05ug
+G06	Sample 34	A	2000	0.05ug
+G07	Sample 35	A	2000	0.05ug
+G08	Sample 36	A	2000	0.05ug
+G09	Sample 37	A	2000	0.05ug
+G10	Sample 38	A	2000	0.05ug
+G11	Sample 39	A	2000	0.05ug
+G12	Sample 40	A	2000	0.05ug
+H01	Blank	A	0	0.05ug
+H02	Blank	B	0	0.05ug
+H03	Sample 31	B	2000	0.05ug
+H04	Sample 32	B	2000	0.05ug
+H05	Sample 33	B	2000	0.05ug
+H06	Sample 34	B	2000	0.05ug
+H07	Sample 35	B	2000	0.05ug
+H08	Sample 36	B	2000	0.05ug
+H09	Sample 37	B	2000	0.05ug
+H10	Sample 38	B	2000	0.05ug
+H11	Sample 39	B	2000	0.05ug
+H12	Sample 40	B	2000	0.05ug
